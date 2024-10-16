@@ -1,6 +1,13 @@
 body{
+<<<<<<< HEAD
     background-color: rgb(249, 1, 212);
 }
 body{
     background-color: cadetblue;
+=======
+    background-color: black;
+}
+h1{
+    color:chartreuse;
+>>>>>>> kimo
 }
